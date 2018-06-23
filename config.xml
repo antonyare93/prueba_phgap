@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.antonyare_93.App_Prueba"
+    versionCode = "1"
+    version     = "1.0.0" >
+
+  <name>App Prueba</name>
+
+  <description>
+      Esta es una prueba utilizando PhoneGap
+  </description>
+
+  <author href="mailto:antonyare_93@hotmail.com" email="antonyare_93@hotmail.com">
+      Antony Arévalo
+  </author>
+
+</widget>
